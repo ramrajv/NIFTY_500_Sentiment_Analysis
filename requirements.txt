@@ -1,0 +1,9 @@
+pandas
+numpy
+bs4
+nsepython
+nltk
+matplotlib
+plotly
+lxml
+pytz
